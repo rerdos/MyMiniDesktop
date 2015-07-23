@@ -1,0 +1,28 @@
+{
+  "name": "MyMiniDesktop",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rerdos/MyMiniDesktop",
+  "authors": [
+    "rerdos <richard.erdos@me.com>"
+  ],
+  "description": "Web desktop where users can do little stuffs.",
+  "main": "index.html",
+  "keywords": [
+    "web",
+    "desktop"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jqueryui": "~1.11.4"
+  }
+}
