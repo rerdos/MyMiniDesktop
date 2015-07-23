@@ -1,0 +1,12 @@
+$navbar-height: 50px;
+
+body {
+  background-color: #2f2f2f;
+}
+
+span#developer {
+  line-height: $navbar-height;
+  margin-right: $navbar-height;
+  margin-left: $navbar-height/5;
+  color: #525252;
+}
